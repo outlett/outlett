@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/outlett
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://outlett.com.au
+  * I am outlett (https://keybase.io/outlett) on keybase.
+  * I have a public key ASAH5DjdzFnQdZZoNCFVGngG_DAiOqmoZMOfpxQXV6Hx-Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120691a3496114fd574aa37e321c6afb7aadf4dbc6e57316855b0bb778e66eea7880a",
+      "host": "keybase.io",
+      "kid": "012007e438ddcc59d07596683421551a7806fc30223aa9a864c39fa7141757a1f1f90a",
+      "uid": "0cc7ce1ab18f095f62b6097cdcef3119",
+      "username": "outlett"
+    },
+    "merkle_root": {
+      "ctime": 1568444182,
+      "hash": "43199d438543d1951d12b0258af775ae8bb2784b7e50a9f75b00975c4fa0f28bcabde116f370586b459e2ae61d216df5d7d01370435038597b8642732e56fdc0",
+      "hash_meta": "c732a4178123b74d8b2209a90eeff792a18fcaf07cfb2fdc6ec44303f920cb27",
+      "seqno": 7269387
+    },
+    "service": {
+      "entropy": "NmsJn5Wo+U0jtAQ1K4R2EMLj",
+      "hostname": "outlett.com.au",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568444192,
+  "expire_in": 504576000,
+  "prev": "2539cb9e1b714960a12164290791e0ae8b537eedc092855896de8c84a6aed62d",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgB+Q43cxZ0HWWaDQhVRp4BvwwIjqpqGTDn6cUF1eh8fkKp3BheWxvYWTESpcCFsQgJTnLnhtxSWChIWQpB5HgrotTfu3AkoVYlt6MhKau1i3EILwO7KP5WT3HXx2WJKwykJT66CveinXGnf4ASrs3gv/BAgHCo3NpZ8RAdVqJveiAEiDaVSWe9tXqoljwd5Q5eLPkQNkvrnPkrjgSelrXWShBoUayvRdNyGny2jyp5e6NNNeuzGl0zq/DA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIL722erffyf23fcBy7gaMNYNooLAqsH9S+m//eoyWa8go3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/outlett
+
+==================================================================
